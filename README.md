@@ -1,0 +1,1 @@
+In this project, I developed a simple dynamic form web page using the Spring MVC architecture. When users fill out the form and click submit, they are directed to the web page that verifies their firstName and lastName.
